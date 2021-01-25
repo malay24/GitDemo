@@ -16,5 +16,3 @@ def divide(x,y):
 	 return ERROR
 	return x/y
 
-def square(x,y):
-   return x*x
