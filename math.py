@@ -10,7 +10,5 @@ def multiply(x,y):
     
 # Perform division
 def divide(x,y):
-    if y==0:
-	 return ERROR
 	return x/y
 
